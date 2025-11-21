@@ -1,7 +1,7 @@
 {
     "name": "alphadogs",
     "version": "0.1.0",
-    "proxy": "https://alphadogsgame.fun",
+    "proxy": "https://megatestsan.vercel.app/",
     "private": true,
     "dependencies": {
         "@firebase/firestore": "^4.6.3",
